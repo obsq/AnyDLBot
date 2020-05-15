@@ -24,15 +24,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1170606677:AAHIWFw_x99470TtITNjVOvE4xCdeWlPtu0"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1257063"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "bb2f00cc77b85c6bc375223ba76e0372"
     },
    "CHAT_BASE_TOKEN": {
       "description": "Get this value from https://chatbase.com",
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "724495167"
     },
     "DEF_THUMB_NAIL_VID_S": {
       "description": "default thumbnail to be used in the videos. Incase, youtube-dl is unable to find a thumbnail.",
