@@ -34,10 +34,6 @@
       "description": "Get this value from https://my.telegram.org",
       "value": "bb2f00cc77b85c6bc375223ba76e0372"
     },
-   "CHAT_BASE_TOKEN": {
-      "description": "Get this value from https://chatbase.com",
-      "value": "f7d4675a-ba0c-46ac-b4f0-33b0a4c73140"
-    },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
       "value": "724495167"
